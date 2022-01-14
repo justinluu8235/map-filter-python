@@ -1,0 +1,18 @@
+1. Array of menu items (item_name, category, price) =>  filter out non-drinks => map and add 10 cents CRV 
+
+
+2. Array of game scores  => filter out for >= 100     => map to divide by 4 (average per quarter)
+
+
+3. Array jordan retro #s  => filter out anything above 13 => map add "bought " 
+
+
+4. Array of business dictionaries (name, phone_number) => map return phone number  =>  filter out anything with a ''  
+
+Map : [ {}  {} {} ]  => [ '' ''  '' ]          Filter : [ {}, {}, {} ] => [ {}, {} ]
+
+
+5. Shopping List Array (name, category, price) => filter out category toys => map to apply tax 
+
+
+
