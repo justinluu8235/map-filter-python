@@ -7,7 +7,7 @@
 3. Array jordan retro #s  => filter out anything above 13 => map add "bought " 
 
 
-4. Array of business dictionaries (name, phone_number) => map return phone number  =>  filter out anything with a ''  
+4. Array of business dictionaries (name, phone_number, type ) => map return name and phone number only =>  filter out anything with a ''  
 
 Map : [ {}  {} {} ]  => [ '' ''  '' ]          Filter : [ {}, {}, {} ] => [ {}, {} ]
 
